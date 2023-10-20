@@ -1,0 +1,28 @@
+body {
+   background-color: gray;
+   font-family: "Arial", Sans-serif;
+}
+
+h1 {
+   font-family: "Verdana", Sans-serif;
+   text-align: center;
+}
+
+h2 {
+   font-family: "Verdana", Sans-serif;
+   text-align: center;
+}
+
+p {
+   text-align: center;
+}
+
+ol, ul {
+    margin-left: 500px;
+}
+
+#chapati, #ugali, #sukuma {
+   margin-left: 600px;
+}
+
+

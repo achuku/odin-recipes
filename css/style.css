@@ -1,6 +1,7 @@
 body {
    background-color: gray;
    font-family: "Arial", Sans-serif;
+   margin: auto;
 }
 
 h1 {
@@ -18,11 +19,11 @@ p {
 }
 
 ol, ul {
-    margin-left: 500px;
+    margin: 20px 0 40px 450px;
 }
 
-#chapati, #ugali, #sukuma {
-   margin-left: 600px;
+img {
+   margin: 20px 0 20px 600px;
 }
 
 

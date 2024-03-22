@@ -1,31 +1,11 @@
 body {
    background-color: gray;
    font-family: "Arial", Sans-serif;
-   margin: auto;
-}
-
-h1 {
-   font-family: "Verdana", Sans-serif;
-   text-align: center;
-}
-
-h2 {
-   font-family: "Verdana", Sans-serif;
-   text-align: center;
-}
-
-p {
-   text-align: center;
-}
-
-ol, ul{
-    margin: 20px 0 40px 450px;
+   display: flex;
+   flex-direction: column;
 }
 
 img {
-   margin: 20px 0 20px 600px;
-}
-
-.bottom-nav {
-   text-align: center; 
+   max-width: 500px;
+   max-height: 500px;
 }
